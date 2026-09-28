@@ -1,0 +1,17 @@
+Role: Tum ek [expert/profession] ho.
+
+Task: Mujhe [kya chahiye] karna hai.
+
+Context: [Tumhari situation, background, audience, goal]
+
+Details/Constraints: 
+- Language: [Hindi / English / Hinglish]
+- Length: [e.g. 200 words / short / detailed]
+- Tone: [simple / formal / friendly / professional]
+- Level: [beginner / intermediate / expert]
+
+Format: [table / bullet points / step-by-step / email / code]
+
+Example (optional): [jis style mein chahiye uska sample]
+
+Extra: Agar koi info missing ho toh pehle mujhse sawaal poochna.
